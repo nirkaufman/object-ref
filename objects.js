@@ -1,3 +1,10 @@
+const person = {
+  name: 'Nir',
+};
+
+person.name
+
+
 // Primitive types
 typeof "asdsdf"; // string
 typeof 123; // number

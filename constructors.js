@@ -10,11 +10,8 @@ function Person(firstName, lastName) {
   }
 }
 
-function Employee(firstName, lastName, age) {
+function Employee(firstName, lastName, age) {}
 
-}
-
-Employee.prototype = new Person();
 
 // Create an object using the constructor function
 const nir = new Employee('Nir', 'Kaufman', 30);
