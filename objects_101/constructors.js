@@ -1,4 +1,4 @@
-// Function used to create objects
+// Function used to create objects_101
 // Should be named with a capital letter
 function Person(firstName, lastName) {
   this.firstName = firstName;
